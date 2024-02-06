@@ -5,6 +5,8 @@ Created on Sun Feb  4 22:36:04 2024
 @author: dmittal
 """
 
+#this code is for populations with heterogenous preferences connected probabilistically (mimic well-mixed limit)
+
 import numpy as np
 from numba import njit
 

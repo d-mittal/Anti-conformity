@@ -5,7 +5,7 @@ Created on Sat Nov 20 02:53:08 2021
 @author: Dhruv
 """
 
-
+#this code is for populations with heterogenous preferences on networks  
 
 import numpy as np
 from numba import njit
