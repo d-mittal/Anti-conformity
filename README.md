@@ -1,4 +1,4 @@
-# Population Dynamics with Heterogeneous Preferences on Networks
+# Collective Decision-Making Dynamics with Heterogeneous Preferences on Networks
 
 This repository contains Python code for simulating population dynamics with heterogeneous preferences on networks. The code implements a model where individuals make choices influenced by their preferences and the choices of their neighbors in a network.
 
