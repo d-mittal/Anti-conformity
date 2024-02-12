@@ -45,7 +45,7 @@ def one_run_network(N,num_of_iter,x0A,frac_w,beta,A,freq,linear,w):
         degree[i]=len(temp)
     
     
-    #storesfraction of As in the population
+    #stores time series of fraction of As in the population
     x1 = np.ones(num_of_iter, dtype=np.float32)
     
     #stores time series of fraction of As in the conforming subpopulation
